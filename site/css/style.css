@@ -1,0 +1,46 @@
+body {
+    background-image: url(../images/3.JPG);
+}
+h3{
+    margin-top: 30px;
+}
+video {
+    margin-top: 30px;
+    margin-bottom: 115px;
+    margin-left: 420px;
+}
+.button {
+    color: #747474;
+    background-color: burlywood;
+    border: 2px solid #323232;
+    margin: 20px;
+    margin-top: 70px;
+    padding: 15px;
+    border-radius: 30px;
+    opacity: 0.8;
+    box-shadow: 3px 3px #323232;
+    width: 20%;
+    height: 10px;
+    text-align: center;
+}
+#riga{
+    margin-top: 40px;
+}
+.button:hover {
+    border: 3px solid #821010;
+}
+#rigapic {
+    margin-top: 20px;
+    margin-bottom: 65px;
+    margin-left: 300px;
+    margin-bottom: 195px;
+}
+img:hover {
+    transform: scale(1.5);
+    transition: all 5s;
+}
+#Sauber {
+    margin-top: 20px;
+    margin-bottom: 160px;
+    margin-left: 100px;
+}
